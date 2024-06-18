@@ -4,9 +4,9 @@
 Project developed by Christian Neitzel (PG52526) under the supervision of Fernanda Vieira, Hugo Oliveira and Óscar Dias from the Centre of Biological Engineering of the University of Minho.
 
 This project was evaluated in three phases:
-**1) Phase 1:** Delivery of an initial article (file "Projeto_PhageAcr_ChristianNeitzel_ArtigoIntercalar.pdf") containing the context of the project to be developed, the state-of-the-art, objectives and potential tools that could provide insights into how the project could be developed;
-**2) Phase 2:** Presentation via PowerPoint of the project detailing the chosen methodologies, results obtained and conclusions made;
-**3) Phase 3:** Delivery of a final article containing all aforementioned contextualizations, methods, results, conclusions and future perspectives.
+1) Phase 1: Delivery of an initial article (file "Projeto_PhageAcr_ChristianNeitzel_ArtigoIntercalar.pdf") containing the context of the project to be developed, the state-of-the-art, objectives and potential tools that could provide insights into how the project could be developed;
+2) Phase 2: Presentation via PowerPoint of the project detailing the chosen methodologies, results obtained and conclusions made;
+3) Phase 3: Delivery of a final article containing all aforementioned contextualizations, methods, results, conclusions and future perspectives.
 
 
 ### Project description:
